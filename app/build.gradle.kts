@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "edu.lasallebajio.gameofthronesapp"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "edu.lasallebajio.gameofthronesapp"

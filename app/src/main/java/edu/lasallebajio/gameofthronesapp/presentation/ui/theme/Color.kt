@@ -1,4 +1,4 @@
-package edu.lasallebajio.gameofthronesapp.ui.theme
+package edu.lasallebajio.gameofthronesapp.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
